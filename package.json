@@ -1,0 +1,22 @@
+{
+  "name": "tabfiletest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obasor/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "David Rosado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obasor/test/issues"
+  },
+  "homepage": "https://github.com/obasor/test#readme"
+}
