@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/obasor/test/issues"
   },
-  "homepage": "https://github.com/obasor/test#readme"
+  "homepage": "https://github.com/obasor/test#readme",
+  "dependencies": {
+    "fast-csv": "^2.5.0"
+  }
 }
